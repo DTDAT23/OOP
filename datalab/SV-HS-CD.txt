@@ -1,0 +1,92 @@
+//Hoc sinh:Ho ten,ma so hs, Van, Toan, Ngoai Ngu, Hanh Kiem (T: Tot, K:Kha)
+//Sinh vien: MSSV, Ho lot, Ten, Ngay sinh, Nganh hoc, Noi sinh, Truong DH
+//Cong dan: So CCCD, Ho lot, Ten, Ngay sinh, Noi sinh, Nghe nghiep
+Truong Quoc Hoang,1020152,7,9,9,T
+Ho Doan Phuong,1020278,8,9,3,T
+31020922,Le Xuan,Quynh,13-02-99,Cong Nghe Ky Thuat Moi Truong,Quang Tri,OU
+31020928,Trinh Thi Thu,Van,23-11-99,Do hoa Multimedia,Lam Dong,OU
+39888552,Tran Phan Trung,Nguyen,20-07-99,An Giang,Kinh doanh
+37081086,Le Phuong,Anh,20-05-99,Binh Duong,Tieu Thuong
+31020938,Nguyen Thi Ngoc,Suong,07-11-99,Thiet ke do hoa,Ha Nam,UEH
+31020948,Nguyen Thu,Thao,22-02-99,Thu ky y khoa,Hung Yen,UEH
+31020960,Nguyen Cao,Lam,13-09-99,Ky thuat phan mem,Quang Nam,UEH
+31020982,Huynh Ngoc,Viet,24-08-98,Marketing,An Giang,UEH
+31021026,Nguyen Hoai Phuong,Nghi,02-05-98,Quan ly Tai nguyen va moi truong,Hai Duong,UEH
+Bui Hoang Kha,1020737,2,9,5,K
+Dang Vi Tin,1021322,4,8,6,T
+Hua Khuol,1021813,6,8,7,K
+Thach Thi Ngoc Bich,1021835,7,8,8,T
+Nguyen Tran Vu,1022807,8,5,4,T
+31021027,Huynh Thanh,Hang,06-11-99,Anh van thuong mai,Dong Nai,UEF
+31021028,Dang Thuy,Dung,30-01-99,Thiet ke thoi trang,Vinh Long,UEF
+31021030,Pham Vu Thuy,Linh,26-07-99,Quan tri Nha hang va Dich vu an uong,Khanh Hoa,UEF
+31021046,Nguyen Thi Hai,Duong,11-12-98,Cong Nghe Ky Thuat Moi Truong,Tuyen Quang,UEF
+31021072,Huynh Thi Mai,Huong,08-04-99,Quan tri nhan luc,Vinh Long,UEF
+Le Van Thai,1023054,8,5,2,K
+Ho Hoang Kiem,1023097,9,4,8,T
+Phan Quang Tien,1024288,2,3,4,T
+Nguyen Thi Hien,1024297,2,5,3,TB
+Phan Thi Thu Ha,11020102,1,7,3,T
+Nguyen Anh Tuan,11020267,6,8,6,T
+36287659,Nguyen Quang,Anh,27-01-99,Can Tho,Giao vien
+30622041,Vo Thi Anh,Thi,06-04-99,Ben Tre,Kinh doanh
+Le Thanh Cong,11020555,7,5,8,T
+Vu Ngoc Binh,11020625,8,8,8,K
+Hoang Thi Thu Ha,10211339,6,9,9,K
+Hoang Trong Anh,11021333,8,5,6,T
+Le Quang Thang,11021865,6,4,7,K
+Huynh Thi My Thao,11021984,4,2,8,T
+Nguyen Thi Thanh,11021990,6,2,5,K
+Ha Van Bao,11022512,8,4,4,T
+Vu Van Thanh,11022802,9,6,8,K
+Hoang Dinh Kien,11022884,8,7,9,T
+Bui Trung Hieu,11022952,5,4,4,TB
+Nguyen Thi Kim Ngan,11023030,8,8,6,T
+Ba Thi Thien Da,11023053,5,4,8,T
+31021098,Nguyen Quoc Thao,Nguyen,30-03-99,Quan tri kinh doanh,Ninh Binh,UEL
+31021100,Nguyen Thi Nha,Phuong,29-10-00,Toan ung dung,Kon Tum,UEL
+31021115,Nguyen Thi My,Ha,03-02-97,Thiet ke thoi trang,Dak Nong,UEL
+31021128,Huynh Luong,Hung,14-06-95,Thiet ke do hoa,Soc Trang,UEL
+31021140,Nguyen Binh Nhut,Vy,04-01-99,Thu ky van phong,Bac Ninh,UEL
+31021141,Pham Truong,Giang,04-03-99,He thong thong tin quan ly,Ninh Binh,UEL
+31021146,Huynh Nhat,Thi,08-10-99,Thu ky van phong,Phu Tho,UEL
+31021149,Le Phu,Thinh,27-04-98,Quan tri Nha hang va Dich vu an uong,Quang Nam,UEL
+31021158,Nguyen Phi,Hoang,22-09-00,Quan tri nhan luc,Tay Ninh,UEL
+31021171,Phan Thi Thuy,Duong,23-03-99,Thu ky van phong,An Giang,UEL
+31021173,Ha Boi,Yen,22-10-99,Quan tri Nha hang va Dich vu an uong,Quang Tri,UEL
+31021175,Vu Thi Thuy,Dung,14-11-99,Ngon ngu Anh,Ninh Thuan,UEL
+31021184,Le Tran Khanh,Thy,19-08-99,Quan tri nhan luc,Thua Thien - Hue,UEL
+36965915,Nguyen Minh,Nhat,30-11-99,Bac Lieu,Tieu Thuong
+34220929,Do Khac,Chinh,10-10-99,Quang Ngai,Cong Chuc
+30293270,Vo Thanh,Phuong,01-07-00,Cao Bang,Giao vien
+35243441,Dang Thi Minh,Huong,18-06-99,Bac Lieu,Giao vien
+31021187,Vo Trong,Quang,01-05-99,Quan tri nhan luc,Thai Binh,UFM
+31021201,Tran Trung,Nghia,20-08-99,Thiet ke noi that,Lai Chau,UFM
+31021203,Tran Nguyen Thuy,Duong,30-06-99,Cong nghe thong tin,Dong Nai,UFM
+33306207,Dang Trung,Truc,08-12-99,Son La,Kinh doanh
+38002138,Tran Ngoc,Linh,18-08-99,Ca Mau,Cong Chuc
+34506980,Nguyen Do Khanh,Duy,26-09-99,Long An,Cong Chuc
+34355329,Nguyen Hoang,Oanh,31-01-98,Kon Tum,Cong Chuc
+31021207,Vo Hoang,Vu,12-03-99,Cong Nghe Ky Thuat Moi Truong,Ca Mau,SGU
+31021208,Truong Boi,Hoan,03-01-99,Cong Nghe Ky Thuat Moi Truong,Tuyen Quang,SGU
+31021221,Nguyen Duc,Hoang,14-12-97,Quan tri nhan luc,Bac Ninh,SGU
+31021233,Do Nhat,Minh,25-09-99,Quan tri van phong,Nghe An,SGU
+31021234,Hoang Thi Thanh,Thuy,04-10-99,He thong thong tin quan ly,Lam Dong,SGU
+31021242,Le Nguyen Cat,Tuong,16-11-99,Quan tri nhan luc,Hai Duong,SGU
+31021263,Le Ngoc Minh,Tam,09-07-00,Truyen thong va Mang may tinh,Binh Dinh,SGU
+31021266,Do Van Ngoc,Duc,19-10-99,Tai chinh ngan hang,TP. Ho Chi Minh,SGU
+31021269,Vuong Thi My,Huynh,20-06-99,Thu ky van phong,Binh Duong,SGU
+31021277,Nguyen Phuong,Thao,07-05-99,He thong thong tin quan ly,Bac Kan,SGU
+31021281,Vo Thi,Phuc,23-10-00,Ke toan,Tay Ninh,SGU
+31021301,Nguyen Tu Thanh,Tu,01-12-99,Quan tri Nha hang va Dich vu an uong,Yen Bai,SGU
+31021306,Vuong Thanh,Duy,01-03-99,Ke toan,Dak Lak,SGU
+31021310,Pham Van,Anh,03-05-99,Thu ky y khoa,Tay Ninh,SGU
+31021331,Nguyen Ngoc Thanh,Trang,09-07-99,He thong thong tin quan ly,Bac Ninh,SGU
+33084071,Bui Thanh,Long,08-09-99,Phu Yen,Kinh doanh
+31332014,Nguyen Tuan,Anh,03-03-99,Can Tho,Cong Chuc
+34678448,Tran Doan Phuong,Uyen,19-02-99,Bac Kan,Tieu Thuong
+31021333,Nguyen Thi Thuy,Trang,04-11-99,Quan tri van phong,Dong Nai,GDU
+31021337,Pham Quoc,Tien,09-12-98,Quan tri Nha hang va Dich vu an uong,Lao Cai,GDU
+31021338,Pham Thi Quynh,Nhu,18-10-99,Kinh doanh quoc te,Binh Phuoc,GDU
+31021349,Phan Tran Gia,Bao,06-06-99,He thong thong tin quan ly,Tien Giang,GDU
+31021354,Dang Thai Huyen,Trang,10-08-99,Thiet ke noi that,Dong Nai,GDU

@@ -1,0 +1,347 @@
+//Title; Authors;Year;File
+Singular Solutions in Plasticity;Sergei Alexandrov;2006;978-981-10-5227-9.pdf
+Data Engineering and Intelligent Computing;Suresh Chandra SatapathyVikrant BhatejaK. Srujan RajuB. Janakiramaiah;2007;978-981-10-3223-3.pdf
+Advances in Hybridization of Intelligent Methods;Prof. Ioannis HatzilygeroudisVasile Palade;2000;978-3-319-66790-4.pdf
+Application of Wavelets in Speech Processing;Prof. Dr. Mohamed Hesham Farouk;2005;978-3-319-69002-5.pdf
+Proceedings of the Fourth Euro-China Conference on Intelligent Data Analysis and Applications;Dr. Pavel KræžšmerEnrique AlbaProf. Jeng-Shyang PanProf. Dr. Vè°©clav Snè°©æ‹§el;2004;978-3-319-68527-4.pdf
+Foundations of Circulation Control Based Small-Scale Unmanned Aircraft;Konstantinos KanistrasDr. Kimon P. ValavanisProf. Matthew J. Rutherford;2000;978-3-319-67852-8.pdf
+Virtualized Wireless Networks;Dr. Tho Le-NgocRajesh DawadiDr. Saeedeh ParsaeefardMahsa Derakhshani;2008;978-3-319-57388-5.pdf
+Packet-Based Control for Networked Control Systems;Yun-Bo ZhaoGuo-Ping LiuYu KangLi Yu;2009;978-981-10-6250-6.pdf
+Advances in Human Error, Reliability, Resilience, and Performance;Ronald Laurids Boring;2004;978-3-319-60645-3.pdf
+Historic Indoor Microclimate of the Heritage Buildings;Prof. Marco PretelliProf. Kristian Fabbri;2007;978-3-319-60343-8.pdf
+Advances in Bionanomaterials;Prof. Stefano PiottoFederico RossiProf. Simona ConcilioProf. Ernesto ReverchonProf. Giuseppe Cattaneo;2007;978-3-319-62027-5.pdf
+Recent Developments in Mechatronics and Intelligent Robotics;Feng QiaoProf. Srikanta PatnaikJohn Wang;2000;978-3-319-65978-7.pdf
+Computational Statics Revision Course;Zia JavanbakhtProf. Dr. Andreas è„°chsner;2007;978-3-319-67462-9.pdf
+EM Material Characterization Techniques for Metamaterials;Dr. Raveendranath U. NairMaumita DuttaMohammed Yazeen P.S.K. S. Venu;2000;978-981-10-6517-0.pdf
+Soft Computing: Theories and Applications;Prof. Millie PantProf. Dr. Kanad RayProf. Dr. Tarun K. SharmaDr. Sanyog RawatDr. Anirban Bandyopadhyay;2005;978-981-10-5687-1.pdf
+Thermal Analysis of Power Electronic Devices Used in Renewable Energy Systems;Alhussein AlbarbarCanras Batunlu;2007;978-3-319-59828-4.pdf
+Advances on P2P, Parallel, Grid, Cloud and Internet Computing;Fatos XhafaProf. Santi CaballèŒ…Leonard Barolli;2008;978-3-319-69835-9.pdf
+Complex, Intelligent, and Software Intensive Systems;Leonard BarolliOlivier Terzo;2007;978-3-319-61566-0.pdf
+Micro and Nanomechanics, Volume 5;Dr. LaVern StarmanDr. Jenny Hay;2005;978-3-319-63405-0.pdf
+Advanced Gear Engineering;Veniamin GoldfarbEvgenii TrubachevNatalya Barmina;2004;978-3-319-60399-5.pdf
+Sustainable Cloud and Energy Services;Dr. Wilson Rivera;2000;978-3-319-62238-5.pdf
+Modeling and Design of Flexible Pavements and Materials;Prof. Dr. Dallas N. LittleProf. Dr. David H. AllenProf. Dr. Amit Bhasin;2002;978-3-319-58443-0.pdf
+Proceedings of SAI Intelligent Systems Conference (IntelliSys) 2016;Dr. Yaxin BiSupriya KapoorRahul Bhatia;2002;978-3-319-56991-8.pdf
+AETA 2017 - Recent Advances in Electrical Engineering and Related Sciences: Theory and Application;Vo Hoang DuyTran Trong DaoIvan ZelinkaSang Bong KimTran Thanh Phuong;2001;978-3-319-69814-4.pdf
+Symmetry in Complex Network Systems;Visarath InProf. Dr. Antonio Palacios;2000;978-3-662-55545-3.pdf
+Signal Quality Assessment in Physiological Monitoring;Dr. Christina Orphanidou;2000;978-3-319-68415-4.pdf
+Applications of Fluid Dynamics;Dr. M.K. SinghDr. B.S. KushvahDr. G.S. SethDr. J. Prakash;2008;978-981-10-5329-0.pdf
+Disciplinary Convergence in Systems Engineering Research;Azad M. MadniBarry BoehmRoger G. GhanemDaniel ErwinMarilee J. Wheaton;2008;978-3-319-62217-0.pdf
+Innovative Mobile and Internet Services in Ubiquitous Computing;Leonard BarolliTomoya Enokido;2001;978-3-319-61542-4.pdf
+Biomaterials in Clinical Practice;Fatima ZivicDr. Saverio AffatatoProf. Dr. Miroslav TrajanovicDr. Matthias SchnabelrauchProf. Dr. Nenad GrujovicDr. Kwang Leong Choy;2003;978-3-319-68025-5.pdf
+Robust Hand Gesture Recognition for Robotic Hand Control;Ankit Chaudhary;2002;978-981-10-4798-5.pdf
+Recent Trends in Control and Sensor Systems in Emergency Management;Roman SzewczykDenis Havlik;2004;978-3-319-70452-4.pdf
+Bounded Rationality in Decision Making Under Uncertainty: Towards Optimal Granularity;Joe LorkowskiVladik Kreinovich;2003;978-3-319-62214-9.pdf
+Robotics Research;Antonio BicchiWolfram Burgard;2000;978-3-319-51532-8.pdf
+Proceedings of the Second International Scientific Conference éˆ¥æ•šntelligent Information Technologies for Industryéˆ¥?(IITIéˆ¥?7);Ajith AbrahamSergey KovalevValery TarassovVaclav SnaselMargreta VasilevaAndrey Sukhanov;2003;978-3-319-68324-9.pdf
+Unified Strength Theory and Its Applications;Prof. Mao-Hong Yu;2009;978-981-10-6247-6.pdf
+Lecture Notes in Real-Time Intelligent Systems;Jolanta Mizera-PietraszkoPit Pichappan;2006;978-3-319-60744-3.pdf
+Continuous Fuzzy Evaluation Methods: A Novel Tool for the Analysis and Decision Making in Football (or Soccer) Matches;Ranjit Biswas;2007;978-3-319-70751-8.pdf
+Personal Assistants: Emerging Computational Technologies;Dr. Angelo CostaVicente JulianDr. Paulo Novais;2001;978-3-319-62530-0.pdf
+Soil Dynamics and Foundation Modeling;Prof. Dr. Junbo Jia;2004;978-3-319-40358-8.pdf
+Constraint Programming and Decision Making: Theory and Applications;Martine CeberioVladik Kreinovich;2009;978-3-319-61753-4.pdf
+Towards Analytical Techniques for Optimizing Knowledge Acquisition, Processing, Propagation, and Use in Cyberinfrastructure and Big Data;Dr. L. Octavio LermaProf. Vladik Kreinovich;2008;978-3-319-61349-9.pdf
+Recent Advances in Technology Research and Education;Dumitru LucaLucel SirghiClaudiu Costin;2006;978-3-319-67459-9.pdf
+Body Sensors and Electrocardiography;Roman TrobecIvan Tomaæ‹§iè†°Aleksandra RashkovskaMatjaå•ª DepolliViktor Avbelj;2003;978-3-319-59340-1.pdf
+Guide to Big Data Applications;S. Srinivasan;2008;978-3-319-53817-4.pdf
+Pipe Inspection Robots for Structural Health and Condition Monitoring;Prof. Harutoshi OgaiProf. Bishakh Bhattacharya;2004;978-81-322-3751-8.pdf
+Acoustics-A Textbook for Engineers and Physicists;Jerry H. Ginsberg;2007;978-3-319-56844-7.pdf
+Advances in Smart Vehicular Technology, Transportation, Communication and Applications;Prof. Dr. Jeng-Shyang PanDr. Tsu-Yang WuProf. Dr. Yong ZhaoProf. Dr. Lakhmi C. Jain;2002;978-3-319-70730-3.pdf
+Critical Infrastructures, Key Resources, Key Assets;Prof. Dr. Adrian V. GheorgheProf. Dr. Dan V. VamanuPolinpapilinho F. KatinaDr. Roland Pulfer;2007;978-3-319-69224-1.pdf
+Proceedings of the Eighth International Conference on Soft Computing and Pattern Recognition (SoCPaR 2016);Ajith AbrahamAswani Kumar CherukuriAna Maria MadureiraAzah Kamilah Muda;2000;978-3-319-60618-7.pdf
+System Dependability Evaluation Including S-dependency and Uncertainty;Univ.-Prof. Dr. Hans-Dieter Kochs;2009;978-3-319-64991-7.pdf
+Advances in Fuzzy Logic and Technology 2017;Prof. Dr. Janusz KacprzykProf. Eulalia SzmidtSè‰‚awomir Zadroå¶nyKrassimir T. AtanassovProf. Maciej Krawczak;2005;978-3-319-66830-7.pdf
+Development of a Fully Integrated éˆ¥æ•ªample-In-Answer-Outéˆ¥?System for Automatic Genetic Analysis;Bin Zhuang;2009;978-981-10-4753-4.pdf
+Smart Camera Design;Dr. Marilyn Wolf;2000;978-3-319-69523-5.pdf
+Advances in Communication of Design;Amic G. Ho;2001;978-3-319-60477-0.pdf
+Advanced Solutions of Transport Systems for Growing Mobility;Grzegorz Sierpiè‰…ski;2002;978-3-319-62316-0.pdf
+Supporting University Ventures in Nanotechnology, Biomaterials and Magnetic Sensing Applications;Julian Peå¸½a DopazoFatima Zivic;2006;978-3-319-61237-9.pdf
+Active System Control;Prof. Igor SchagaevBrian Robinson Kirk;2000;978-3-319-46813-6.pdf
+Complexity and Synergetics;Stefan C. Mçœ‰llerPeter J. PlathGçœ‰nter RadonsArmin Fuchs;2006;978-3-319-64334-2.pdf
+Advances in Intelligent Information Hiding and Multimedia Signal Processing;Dr. Jeng-Shyang PanProf. Dr. Pei-Wei TsaiProf. Dr. Junzo WatadaProf. Dr. Lakhmi C. Jain;2005;978-3-319-63859-1.pdf
+Carbon;Dr. Tapan Gupta;2005;978-3-319-66405-7.pdf
+A First Introduction to the Finite Element Analysis Program MSC Marc/Mentat;Prof. Dr. Andreas è„°chsnerMarco è„°chsner;2007;978-3-319-71915-3.pdf
+New Hybrid Intelligent Systems for Diagnosis and Risk Evaluation of Arterial Hypertension;Patricia MelinGerman Prado-Arechiga;2006;978-3-319-61149-5.pdf
+Advances in Ergonomics of Manufacturing: Managing the Enterprise of the Future;Stefan Trzcielinski;2002;978-3-319-60474-9.pdf
+Advanced Concepts, Methodologies and Technologies for Transportation and Logistics;Jacek å‘•akYuval HadasRiccardo Rossi;2007;978-3-319-57105-8.pdf
+Field and Service Robotics;Prof. Dr. Marco HutterRoland Siegwart;2007;978-3-319-67361-5.pdf
+Advances in Computational Intelligence Systems;Fei ChaoSteven SchockaertQingfu Zhang;2003;978-3-319-66939-7.pdf
+Fog Computing in the Internet of Things;Amir M. RahmaniPasi LiljebergJçœ‰rgo-Sæžšren PredenAxel Jantsch;2007;978-3-319-57639-8.pdf
+Soft Computing Applications for Group Decision-making and Consensus Modeling;Mikael CollanJanusz Kacprzyk;2003;978-3-319-60207-3.pdf
+Dynamics of Mechanical Systems with Non-Ideal Excitation;Livija CveticaninMiodrag ZukovicJose Manoel Balthazar;2002;978-3-319-54169-3.pdf
+Advances in Culturally-Aware Intelligent Systems and in Cross-Cultural Psychological Studies;Colette Faucher;2009;978-3-319-67024-9.pdf
+Context-Aware Communication and Computing: Applications for Smart Environment;Punnarumol TemdeeRamjee Prasad;2007;978-3-319-59035-6.pdf
+Asymptotical Mechanics of Composites;Prof. Dr. Igor V. AndrianovProf. Dr. Jan AwrejcewiczProf. Dr. Vladyslav V. Danishevskyy;2009;978-3-319-65786-8.pdf
+Surface Finishing Theory and New Technology;Prof. Dr. Shengqiang YangProf. Dr. Wenhui Li;2005;978-3-662-54133-3.pdf
+Soft Computing Applications;Prof. Valentina Emilia BalasProf. Lakhmi C. JainProf. Marius Mircea Balas;2000;978-3-319-62524-9.pdf
+Aperture Antennas for Millimeter and Sub-Millimeter Wave Applications;Dr. Artem BoriskinProf. Ronan Sauleau;2007;978-3-319-62773-1.pdf
+From Bench to Boardroom;Clifford L. Spiro;2005;978-3-319-64155-3.pdf
+Ferroic Functional Materials;Prof. Dr. Jæžšrg SchræžšderProf. Dr. Doru C. Lupascu;2001;978-3-319-68883-1.pdf
+Proton Exchange Membrane Fuel Cells;Alhussein AlbarbarMohmad Alrweq;2003;978-3-319-70727-3.pdf
+Advances in Design for Inclusion;Giuseppe Di BucchianicoPete F Kercher;2008;978-3-319-60597-5.pdf
+Biomedical Technology;Prof. Peter WriggersProf. Thomas Lenarz;2008;978-3-319-59548-1.pdf
+EVOLVE - A Bridge between Probability, Set Oriented Numerics, and Evolutionary Computation VI;Dr. Alexandru-Adrian TantarDr. Emilia TantarDr. Michael EmmerichDr. Pierrick LegrandDr. Lenuta AlboaieProf. Henri Luchian;2006;978-3-319-69710-9.pdf
+Multiscale Modeling of Heterogeneous Structures;Prof. Jurica Soriè†°Prof. Peter WriggersProf. Olivier Allix;2001;978-3-319-65463-8.pdf
+Advances in Fuzzy Logic and Technology 2017;Prof. Dr. Janusz KacprzykProf. Eulalia SzmidtSlawomir Zadroå¶nyKrassimir T. AtanassovProf. Maciej Krawczak;2002;978-3-319-66827-7.pdf
+Proceedings of Fatigue, Durability and Fracture Mechanics;Prof. Dr. S. SeetharamuProf. Dr. K. Bhanu Sankara RaoDr. Raghunath Wasudev Khare;2008;978-981-10-6002-1.pdf
+Internet of Everything;Prof. Dr. Beniamino Di MartinoProf. Kuan-Ching LiProf. Dr. Laurence T. YangAntonio Esposito;2009;978-981-10-5861-5.pdf
+Advanced Computing in Industrial Mathematics;Dr. Krassimir GeorgievProf. Dr. Michail TodorovIvan Georgiev;2006;978-3-319-65530-7.pdf
+Interface Fracture and Delaminations in Composite Materials;Leslie Banks-Sills;2006;978-3-319-60327-8.pdf
+Viscoelastic Properties of Asphalts Based on Penetration and Softening Point;Prof. Dr. Boris RadovskiyProf. Dr. Bagdat Teltayev;2009;978-3-319-67214-4.pdf
+Telecommunication 4.0;Zhengmao Li;2008;978-981-10-6301-5.pdf
+UR:BAN Human Factors in Traffic;Klaus BenglerJulia Drçœ‰keSilja HoffmannDietrich ManstettenAlexandra Neukum;2006;978-3-658-15418-9.pdf
+Recent Advances in Computational Optimization;Stefka Fidanova;2000;978-3-319-59861-1.pdf
+Advances in Biomedical Informatics;Dr. Dawn E. HolmesProf. Lakhmi C. Jain;2001;978-3-319-67513-8.pdf
+Report of the Workshop Predictive Theoretical, Computational and Experimental Approaches for Additive Manufacturing (WAM 2016);Prof. Dr. Xu GuoProf. Gengdong ChengProf. Dr. Wing-Kam Liu;2001;978-3-319-63670-2.pdf
+Formal System Verification;Rolf Drechsler;2007;978-3-319-57685-5.pdf
+Population-Based Approaches to the Resource-Constrained and Discrete-Continuous Scheduling;Ewa Ratajczak-RopelAleksander Skakovski;2005;978-3-319-62893-6.pdf
+Computer Vision in Control Systems-4;Prof. Margarita N. FavorskayaProf. Lakhmi C. Jain;2005;978-3-319-67994-5.pdf
+High Tech Concrete: Where Technology and Engineering Meet;D.A. HordijkM. Lukoviè†°;2002;978-3-319-59471-2.pdf
+Proceedings of 2017 Chinese Intelligent Automation Conference;Zhidong Deng;2005;978-981-10-6445-6.pdf
+Recent Advances in Nonlinear Dynamics and Synchronization;Kyandoghere KyamakyaWolfgang MathisProf. Dr. Ruedi StoopJean Chamberlain ChedjouProf. Dr. Zhong Li;2001;978-3-319-58996-1.pdf
+Wooden Domes;Ph.D. Barbara Misztal;2005;978-3-319-65741-7.pdf
+Precision Medicine Powered by pHealth and Connected Health;Prof. Dr. Nicos MaglaverasDr. Ioanna ChouvardaProf. Dr. Paulo de Carvalho;2001;978-981-10-7419-6.pdf
+Physical Layer Security in Wireless Cooperative Networks;Li Wang;2003;978-3-319-61863-0.pdf
+Networking Communication and Data Knowledge Engineering;Prof. Gregorio Martinez PerezDr. Krishn K. MishraProf. Shailesh TiwariDr. Munesh C. Trivedi;2005;978-981-10-4585-1.pdf
+Computer and Network Security Essentials;Kevin Daimi;2008;978-3-319-58424-9.pdf
+Concurrency Control in Distributed System Using Mutual Exclusion;Prof. Sukhendu KanrarDr. Nabendu ChakiDr. Samiran Chattopadhyay;2007;978-981-10-5559-1.pdf
+Transactions on Intelligent Welding Manufacturing;Shanben ChenYuming ZhangZhili Feng;2009;978-981-10-7043-3.pdf
+Fracture Mechanics;Prof. Dr. Dietmar GrossProf. Dr. Thomas Seelig;2004;978-3-319-71090-7.pdf
+Acoustics of Bangla Speech Sounds;Asoke Kumar Datta;2005;978-981-10-4262-1.pdf
+The World of Applied Electromagnetics;Akhlesh LakhtakiaCynthia M. Furse;2002;978-3-319-58403-4.pdf
+Physics of Semiconductor Devices;Prof. Massimo Rudan;2006;978-3-319-63154-7.pdf
+Mechanics of Additive and Advanced Manufacturing, Volume 9;Prof. Junlan WangDr. Bonnie AntounDr. Eric BrownWeinong ChenProf. Ioannis ChasiotisEmily Huskins-RetzlaffDr. Sharlotte KramerDr. Piyush R. Thakre;2001;978-3-319-62834-9.pdf
+MEMS Lorentz Force Magnetometers;Cesare Buffa;2006;978-3-319-59412-5.pdf
+Intelligent Systems in Production Engineering and Maintenance éˆ¥?ISPEM 2017;Anna BurdukDariusz Mazurkiewicz;2009;978-3-319-64465-3.pdf
+LabVIEW based Automation Guide for Microwave Measurements;Dr. Satya Kesh DubeyNaina NarangP. S. NegiDr. V. N. Ojha;2003;978-981-10-6280-3.pdf
+Strengthening and Retrofitting of Existing Structures;Prof. Ané“†bal CostaProf. Antè´¸nio Aré”šdeProf. Humberto Varum;2003;978-981-10-5858-5.pdf
+Gesture Recognition;Amit KonarSriparna Saha;2002;978-3-319-62212-5.pdf
+Observer-Based Fault Estimation Techniques;Dr. Ke ZhangProf. Bin JiangProf. Peng ShiProf. Vincent Cocquempot;2009;978-3-319-67492-6.pdf
+Emotional Engineering, Vol. 6;Prof. Shuichi Fukuda;2005;978-3-319-70802-7.pdf
+Sensors;Prof. Bruno Andè²ŒDr. Francesco BaldiniProf. Corrado Di NataleProf. Giovanna MarrazzaDr. Pietro Siciliano;2005;978-3-319-55077-0.pdf
+Recent Developments and Achievements in Biocybernetics and Biomedical Engineering;Prof. Piotr AugustyniakProf. Roman ManiewskiProf. Ryszard Tadeusiewicz;2009;978-3-319-66905-2.pdf
+Flow Visualization in Materials Processing;Prof. Dr. Tomomasa UemuraDr. Yoshiaki UedaManabu Iguchi;2006;978-4-431-56567-3.pdf
+Evolutionary Algorithms, Swarm Dynamics and Complex Networks;Ivan ZelinkaProf. Guanrong Chen;2001;978-3-662-55663-4.pdf
+Humanizing Digital Reality;Prof. Klaas De RyckeProf. Dr. Christoph GengnagelOlivier BaverelProf. Jane BurryDr. Caitlin MuellerDr. Minh Man NguyenPhilippe RahmProf. Mette Ramsgaard Thomsen;2005;978-981-10-6611-5.pdf
+Soft Computing Based Optimization and Decision Models;David A. PeltaCarlos Cruz Corona;2008;978-3-319-64286-4.pdf
+Progress in Intelligent Computing Techniques: Theory, Practice, and Applications;Pankaj Kumar SaManmath Narayan SahooM. MurugappanYulei WuBanshidhar Majhi;2009;978-981-10-3373-5.pdf
+Spectrum Sharing Between Radars and Communication Systems;Awais KhawarAhmed AbdelhadiT. Charles Clancy;2001;978-3-319-56684-9.pdf
+Applied Computing & Information Technology;Roger Lee;2002;978-3-319-64051-8.pdf
+Re-activation of Vacant Retail Spaces;Prof. Luca Tamini;2004;978-3-319-70872-0.pdf
+A Journey Around the Different Scales Involved in the Description of Matter and Complex Systems;Francisco ChinestaDr. Emmanuelle Abisset-Chavanne;2006;978-3-319-70001-4.pdf
+Application-Specific Hardware Architecture Design with VHDL;Dr. Bogdan Belean;2009;978-3-319-65025-8.pdf
+High-Resolution and High-Speed Integrated CMOS AD Converters for Low-Power Applications;Weitao LiFule LiProf. Zhihua Wang;2007;978-3-319-62012-1.pdf
+6th International Conference on the Development of Biomedical Engineering in Vietnam (BME6);Prof. Toi Vo VanDr. Thanh An Nguyen LeDr. Thang Nguyen Duc;2003;978-981-10-4361-1.pdf
+Advanced Microsystems for Automotive Applications 2017;Dr. Carolin Zachç›²usDr. Beate Mçœ‰llerDr. Gereon Meyer;2002;978-3-319-66972-4.pdf
+Advanced Maintenance Modelling for Asset Management;Adolfo Crespo Mè°©rquezVicente Gonzè°©lez-Prida Dé“†azJuanè½Francisco Gè´¸mez Fernè°©ndez;2000;978-3-319-58045-6.pdf
+Advances in Safety Management and Human Factors;Pedro Arezes;2006;978-3-319-60525-8.pdf
+Advances in Data Analysis with Computational Intelligence Methods;Adam E Gawè‡‹daJanusz KacprzykLeszek RutkowskiGary G. Yen;2004;978-3-319-67946-4.pdf
+Understanding Digital Signal Processing;Orhan Gazi;2001;978-981-10-4962-0.pdf
+Advances in Direct Methods for Materials and Structures;Olga BarreraAlan CocksAlan Ponter;2003;978-3-319-59810-9.pdf
+Advances in Human Factors in Robots and Unmanned Systems;Jessie Chen;2007;978-3-319-60384-1.pdf
+Design and Evaluation of Plasmonic/Magnetic Au-MFe2O4 (M-Fe/Co/Mn) Core-Shell Nanoparticles Functionalized with Doxorubicin for Cancer Therapeutics;Dr. Ravichandran Manisekaran;2008;978-3-319-67609-8.pdf
+Image Processing and Communications Challenges 9;Prof. Michaè‰‚ Choraè‰£Prof. Ryszard S. Choraè‰£;2009;978-3-319-68720-9.pdf
+Lamb-Wave Based Structural Health Monitoring in Polymer Composites;Prof. Dr. Rolf LammeringProf. Dr. Ulrich GabbertProf. Dr. Michael SinapiusProf. Dr. Thomas SchusterDr. Peter Wierach;2000;978-3-319-49715-0.pdf
+Proceedings of the 2nd Workshop on Communication Security;Prof. Marco BaldiDr. Elizabeth A. QuagliaProf. Stefano Tomasin;2000;978-3-319-59265-7.pdf
+Strategies and Techniques for Quality and Flexibility;Dr. Miryam Barad;2009;978-3-319-68400-0.pdf
+Resilience by Teaming in Supply Chains and Networks;Rodrigo Reyes Levalle;2008;978-3-319-58323-5.pdf
+Women in Security;Dr. Debra A. Christofferson;2002;978-3-319-57795-1.pdf
+Recent Advances and Future Prospects in Knowledge, Information and Creativity Support Systems;Thanaruk TheeramunkongProf. Andrzej M.J. SkulimowskiProf. Takaya YuizonoDr. Susumu Kunifuji;2001;978-3-319-70019-9.pdf
+The Rotating Beam Problem in Helicopter Dynamics;Prof. Ranjan GanguliVijay Panchore;2007;978-981-10-6098-4.pdf
+Problems & Solutions in Inventory Management;Dinesh ShenoyRoberto Rosas;2007;978-3-319-65696-0.pdf
+International Joint Conference SOCOéˆ¥?7-CISISéˆ¥?7-ICEUTEéˆ¥?7 Leè´¸n, Spain, September 6éˆ¥?, 2017, Proceeding;Hilde PèŒ…rez Garcé“†aJavier Alfonso-Cendè´¸nLidia Sè°©nchez Gonzè°©lezHèŒ…ctor Quintiè°©nEmilio Corchado;2009;978-3-319-67180-2.pdf
+Research on Chemical Mechanical Polishing Mechanism of Novel Diffusion Barrier Ru for Cu Interconnect;Jie Cheng;2003;978-981-10-6165-3.pdf
+Advances in Intelligent Systems and Interactive Applications;Fatos XhafaProf. Srikanta PatnaikAlbert Y. Zomaya;2008;978-3-319-69096-4.pdf
+Active Fault-Tolerant Control Systems;Tushar JainJoseph J. YamèŒ…Dominique Sauter;2006;978-3-319-68829-9.pdf
+Mechanics of Composite and Multi-functional Materials, Volume 6;Dr. Piyush R ThakreDr. Raman SinghGeoff Slipher;2004;978-3-319-63408-1.pdf
+Energy Harvesting for Self-Powered Wearable Devices;Mohammad AlhawariBaker MohammadHani SalehMohammed Ismail;2000;978-3-319-62578-2.pdf
+Manéˆ¥æ—achineéˆ¥æˆnvironment System Engineering;Shengzhao LongProf. Balbir S. Dhillon;2006;978-981-10-6232-2.pdf
+Variety of Development;Dr. Qiushi Feng;2001;978-981-10-5912-4.pdf
+Information and Communication Technology;Dr. Durgesh Kumar MishraDr. Ahmad Taher AzarAmit Joshi;2001;978-981-10-5508-9.pdf
+Advances in Intelligent Systems and Computing II;Prof. Natalia ShakhovskaProf. Volodymyr Stepashko;2008;978-3-319-70581-1.pdf
+Software Failure Investigation;Prof. Jan EloffDr. Madeleine Bihina Bella;2004;978-3-319-61334-5.pdf
+A Disaggregate Freight Transport Model for Germany;Sascha Reiche;2009;978-3-658-19153-5.pdf
+Lean Compendium;Bruno G. Rçœ‰ttimann;2007;978-3-319-58601-4.pdf
+Proceedings of SAI Intelligent Systems Conference (IntelliSys) 2016;Dr. Yaxin BiSupriya KapoorRahul Bhatia;2005;978-3-319-56994-9.pdf
+A Project-Based Introduction to Computational Statics;Prof. Dr. Andreas è„°chsner;2004;978-3-319-69817-5.pdf
+The History of Multiphase Science and Computational Fluid Dynamics;Robert W. Lyczkowski;2007;978-3-319-66502-3.pdf
+Hypergraph Theory in Wireless Communication Networks;Hongliang ZhangProf. Lingyang SongDr. Zhu HanYingjun Zhang;2005;978-3-319-60469-5.pdf
+Distributed Computing and Artificial Intelligence, 14th International Conference;Sigeru OmatuSara Rodré“†guezGabriel VillarrubiaPedro FariaPaweè‰‚ SitekJavier Prieto;2002;978-3-319-62410-5.pdf
+Advances in Feature Selection for Data and Pattern Recognition;Urszula Staè‰…czykBeata ZieloskoLakhmi C. Jain;2006;978-3-319-67588-6.pdf
+Vehicle Dynamics;Dieter SchrammManfred HillerRoberto Bardini;2002;978-3-662-54483-9.pdf
+Co-utility;Josep Domingo-FerrerDavid Sè°©nchez;2002;978-3-319-60234-9.pdf
+Advances in Human Factors and Ergonomics in Healthcare and Medical Devices;Vincent DuffyNancy Lightner;2004;978-3-319-60483-1.pdf
+Advanced Biometrics;Prof. David ZhangProf. Dr. Guangming LuProf. Dr. Lei Zhang;2004;978-3-319-61545-5.pdf
+Techno-Societal 2016;Prashant M. PawarBabruvahan P. RongeR. BalasubramaniamSridevi Seshabhattar;2007;978-3-319-53556-2.pdf
+Mapping, Planning and Exploration with Pose SLAM;Rafael ValenciaJuan Andrade-Cetto;2007;978-3-319-60603-3.pdf
+Contactless VLSI Measurement and Testing Techniques;Selahattin Sayil;2004;978-3-319-69673-7.pdf
+Multibody Mechatronic Systems;JoèŒ«o Carlos Mendes CarvalhoDaniel MartinsRoberto SimoniHenrique Simas;2001;978-3-319-67567-1.pdf
+Quaternary Capped In(Ga)As/GaAs Quantum Dot Infrared Photodetectors;Sourav AdhikaryProf. Dr. Subhananda Chakrabarti;2004;978-981-10-5290-3.pdf
+Recycled Aggregate Concrete Structures;Jianzhuang Xiao;2004;978-3-662-53987-3.pdf
+Ontology Engineering Applications in Healthcare and Workforce Management Systems;Dr. David E ForbesDr. Pornpit WongthongthamDr. Chamonix TerblancheUdsanee Pakdeetrakulwong;2004;978-3-319-65012-8.pdf
+Advances in Cross-Cultural Decision Making;Mark Hoffman;2007;978-3-319-60747-4.pdf
+CMOS Integrated Circuit Design for Wireless Power Transfer;Yan LuWing-Hung Ki;2003;978-981-10-2615-7.pdf
+Advanced Computational Methods for Knowledge Engineering;Nguyen-Thinh LeTien van DoNgoc Thanh NguyenHoai An Le Thi;2004;978-3-319-61911-8.pdf
+Languages, Design Methods, and Tools for Electronic System Design;Franco FummiRobert Wille;2001;978-3-319-62920-9.pdf
+Link-Layer Cooperative Communication in Vehicular Networks;Sailesh BharatiWeihua Zhuang;2002;978-3-319-58721-9.pdf
+On-line Condition Monitoring in Industrial Lubrication and Tribology;Nikolai K. MyshkinLiubou V. Markova;2007;978-3-319-61134-1.pdf
+Business Continuity Management in Construction;Dr. Leni Sagita Riantini SupriadiProf. Low Sui Pheng;2000;978-981-10-5487-7.pdf
+Proceedings of 2017 Chinese Intelligent Systems Conference;Prof. Dr. Yingmin JiaProf. Dr. Junping DuWeicun Zhang;2002;978-981-10-6496-8.pdf
+Complex Networks & Their Applications VI;Chantal CherifiHocine CherifiMè°©rton KarsaiMirco Musolesi;2008;978-3-319-72150-7.pdf
+Silicon Anodization as a Structuring Technique;Alexey Ivanov;2003;978-3-658-19238-9.pdf
+Acoustics-A Textbook for Engineers and Physicists;Jerry H. Ginsberg;2008;978-3-319-56847-8.pdf
+Synergies Between Knowledge Engineering and Software Engineering;Grzegorz J. NalepaJoachim Baumeister;2008;978-3-319-64161-4.pdf
+User-Centric Ultra-Dense Networks for 5G;Shanzhi ChenFei QinProf. Dr. Bo HuXi LiZhonglin ChenJiamin Liu;2002;978-3-319-61201-0.pdf
+Durability of Springs;Prof. Dr. Vladimir Kobelev;2008;978-3-319-58478-2.pdf
+Strain Gradient Plasticity-Based Modeling of Damage and Fracture;Emilio Marté“†nez Paå¸½eda;2001;978-3-319-63384-8.pdf
+Intelligent Distributed Computing XI;Prof. Mirjana Ivanoviè†°Prof. Costin Bè†¬dicè†¬Prof. Jçœ‰rgen DixProf. Zoran Jovanoviè†°Prof. Michele MalgeriProf. Miloæ‹§ Saviè†°;2005;978-3-319-66379-1.pdf
+Research on the Radiation Effects and Compact Model of SiGe HBT;Yabin Sun;2002;978-981-10-4612-4.pdf
+New Advances in the Internet of Things;Ronald R. YagerJordè°©n Pascual Espada;2004;978-3-319-58190-3.pdf
+Industry 4.0: Managing The Digital Transformation;Alp UstundagEmre Cevikcan;2000;978-3-319-57870-5.pdf
+The Path to Post-Galilean Epistemology;Danilo Capecchi;2008;978-3-319-58310-5.pdf
+Functional Numerical Methods: Applications to Abstract Fractional Calculus;Prof. George A. AnastassiouIoannis K. Argyros;2002;978-3-319-69526-6.pdf
+Advance Compression and Watermarking Technique for Speech Signals;Dr. Rohit ThankiDr. Komal BorisagarSurekha Borra;2000;978-3-319-69069-8.pdf
+Ensembles of Type 2 Fuzzy Neural Models and Their Optimization with Bio-Inspired Algorithms for Time Series Prediction;Dr. Jesus SotoProf. Patricia MelinProf. Dr. Oscar Castillo;2006;978-3-319-71264-2.pdf
+Advances in Ergonomics in Design;Francisco RebeloMarcelo Soares;2003;978-3-319-60582-1.pdf
+Advanced Ceramic and Metallic Coating and Thin Film Materials for Energy and Environmental Applications;Jing ZhangYeon-Gil Jung;2007;978-3-319-59906-9.pdf
+Human Factors and Reliability Engineering for Safety and Security in Critical Infrastructures;Prof. Fabio De FeliceProf. Antonella Petrillo;2005;978-3-319-62319-1.pdf
+Information Systems Architecture and Technology: Proceedings of 38th International Conference on Information Systems Architecture and Technology éˆ¥?ISAT 2017;Leszek BorzemskiJerzy è‰¢wiè†®tekZofia Wilimowska;2000;978-3-319-67220-5.pdf
+High Voltage Engineering;Andreas Kçœ‰chler;2007;978-3-642-11993-4.pdf
+Computational Kinematics;SaèŒ‚d ZeghloulLotfi RomdhaneMed Amine Laribi;2005;978-3-319-60867-9.pdf
+Comprehensive Energy Management - Safe Adaptation, Predictive Control and Thermal Management;Daniel WatzenigBernhard Brandstç›²tter;2007;978-3-319-57445-5.pdf
+Aerial Manipulation;Matko OrsagProf. Christopher KorpelaProf. Paul OhProf. Stjepan Bogdan;2006;978-3-319-61022-1.pdf
+Mechanisms, Transmissions and Applications;Mehmet Ismet Can DedeMehmet é™ŒtikErwin-Christian LovaszGæžškhan Kiper;2004;978-3-319-60702-3.pdf
+Advances in Internetworking, Data & Web Technologies;Leonard BarolliMingwu ZhangXu An Wang;2006;978-3-319-59463-7.pdf
+Micro and Nanomanufacturing Volume II;Dr. Mark J. JacksonWaqar Ahmed;2002;978-3-319-67132-1.pdf
+The Role of Mechanics in the Study of Lipid Bilayers;David J. Steigmann;2004;978-3-319-56348-0.pdf
+Road Vehicle Automation 4;Gereon MeyerSven Beiker;2006;978-3-319-60934-8.pdf
+IT Convergence and Security 2017;Dr. Kuinam J. KimProf. Hyuncheol KimProf. Dr. Nakhoon Baek;2004;978-981-10-6451-7.pdf
+Advances in Robot Kinematics 2016;Jadran Lenarè†•iè†•Jean-Pierre Merlet;2008;978-3-319-56802-7.pdf
+Computational Acoustics;Manfred Kaltenbacher;2008;978-3-319-59038-7.pdf
+Introduction to Multiphase Flow;Prof. George YadigarogluProf. Geoffrey F. Hewitt;2002;978-3-319-58718-9.pdf
+Dedicated Mobile Communications for High-speed Railway;Zhang-Dui ZhongBo AiGang ZhuHao WuLei XiongFang-Gang WangLei LeiJian-Wen DingKe GuanRui-Si He;2001;978-3-662-54860-8.pdf
+Low-Power Design and Power-Aware Verification;Progyna Khondkar;2008;978-3-319-66619-8.pdf
+Proceedings of ELM-2016;Jiuwen CaoErik CambriaAmaury LendasseYoan MicheChi Man Vong;2006;978-3-319-57421-9.pdf
+Biologically Inspired Cognitive Architectures (BICA) for Young Scientists;Alexei V. SamsonovichValentin V. Klimov;2008;978-3-319-63940-6.pdf
+Integration, Interconnection, and Interoperability of IoT Systems;Prof. Raffaele GravinaProf. Carlos E. PalauMarco MansoProf. Dr. Antonio LiottaProf. Giancarlo Fortino;2000;978-3-319-61300-0.pdf
+Non-Local Partial Differential Equations for Engineering and Biology;Dr. Nikos I. KavallarisProf. Dr. Takashi Suzuki;2007;978-3-319-67944-0.pdf
+Intelligent Control Design and MATLAB Simulation;Jinkun Liu;2008;978-981-10-5263-7.pdf
+Internet of Things and Big Data Analytics Toward Next-Generation Intelligence;Prof. Dr. Nilanjan DeyProf. Dr. Aboul Ella HassanienPh.D. Chintan BhattDr. Amira S. AshourProf. Suresh Chandra Satapathy;2008;978-3-319-60435-0.pdf
+Proceedings of the International Conference on Advanced Intelligent Systems and Informatics 2017;Prof. Aboul Ella HassanienKhaled ShaalanTarek GaberMohamed F. Tolba;2005;978-3-319-64861-3.pdf
+Canonical Correlation Analysis in Speech Enhancement;Prof. Dr. Jacob BenestyProf. Dr. Israel Cohen;2007;978-3-319-67020-1.pdf
+Space Science and Communication for Sustainability;Prof. Dr. Wayan SupartaProf. Dr. Mardina AbdullahProf. Dr. Mahamod Ismail;2003;978-981-10-6574-3.pdf
+Advances in Human Factors in Sports, Injury Prevention and Outdoor Recreation;Tareq Ahram;2005;978-3-319-60822-8.pdf
+MES Compendium;Jçœ‰rgen KlettiDr. Rainer Deisenroth;2009;978-3-662-54983-4.pdf
+Modeling and Simulation in Industrial Engineering;Prof. Dr. Mangey RamProf. J. Paulo Davim;2004;978-3-319-60432-9.pdf
+Recent Developments in Mechatronics and Intelligent Robotics;Feng QiaoProf. Srikanta PatnaikJohn Wang;2005;978-3-319-70990-1.pdf
+Applied Computational Intelligence and Mathematical Methods;Radek SilhavyPetr SilhavyZdenka Prokopova;2006;978-3-319-67621-0.pdf
+Statistical Physics for Electrical Engineering;Prof. Neri Merhav;2004;978-3-319-62063-3.pdf
+Stability Analysis of Markovian Jump Systems;Yu KangYun-Bo ZhaoPing Zhao;2002;978-981-10-3860-0.pdf
+Plasticity and Fracture;Prof. Dr. Wolfgang Brocks;2002;978-3-319-62752-6.pdf
+Computer Supported Qualitative Research;Antè´¸nio Pedro CostaLué“†s  Paulo ReisFrancislé”š Neri de SouzaAntè´¸nio Moreira;2008;978-3-319-61121-1.pdf
+3D TCAD Simulation for CMOS Nanoeletronic Devices;Yung-Chun WuYi-Ruei Jhan;2007;978-981-10-3066-6.pdf
+Computer Vision in Control Systems-3;Prof. Margarita N. FavorskayaProf. Lakhmi C. Jain;2006;978-3-319-67516-9.pdf
+Information and Communication Technology for Intelligent Systems (ICTIS 2017) - Volume 1;Prof. Dr. Suresh Chandra SatapathyAmit Joshi;2007;978-3-319-63673-3.pdf
+Ultra Low Noise CMOS Image Sensors;Dr. Assim Boukhayma;2002;978-3-319-68774-2.pdf
+Anisotropic Elasticity;Paolo Vannucci;2005;978-981-10-5439-6.pdf
+Advances in Variable Structure Systems and Sliding Mode Controléˆ¥æ“³heory and Applications;Shihua LiXinghuo YuLeonid FridmanZhihong ManXiangyu Wang;2009;978-3-319-62896-7.pdf
+Inspired by Nature;Prof. Susan StepneyProf. Andrew Adamatzky;2004;978-3-319-67997-6.pdf
+Analytical Modelling of Breakdown Effect in Graphene Nanoribbon Field Effect Transistor;Prof. Dr. Iraj Sadegh AmiriProf. Dr. Mahdiar Ghadiry;2004;978-981-10-6550-7.pdf
+Engineering Asset Management 2016;Ming J. ZuoLin MaJoseph MathewHong-Zhong Huang;2002;978-3-319-62274-3.pdf
+Nonlinear Systems and Circuits in Internal Combustion Engines;Dr. Ferdinando Taglialatela-ScafatiDr. Mario LavorgnaDr. Ezio MancarusoDr. Bianca Maria Vaglieco;2008;978-3-319-67140-6.pdf
+Saturated Control of Linear Systems;Abdellah BenzaouiaProf. Fouad MesquineProf. Mohamed Benhayoun;2003;978-3-319-65990-9.pdf
+Robotics in Education;Wilfried LepuschitzMunir MerdanGottfried KoppensteinerRichard BaloghDavid Obdrå•ªè°©lek;2005;978-3-319-62875-2.pdf
+Modeling Steel Deformation in the Semi-Solid State;Dr. Marcin Hojny;2008;978-3-319-67976-1.pdf
+Dynamic Interaction of Train-Bridge Systems in High-Speed Railways;He XiaNan ZhangWeiwei Guo;2006;978-3-662-54871-4.pdf
+Qualitative and Quantitative Analysis of Nonlinear Systems;Michael Z. ZgurovskyPavlo O. Kasyanov;2001;978-3-319-59840-6.pdf
+Formal Methods for Safety and Security;Manju NandaDr. Yogananda Jeppu;2003;978-981-10-4121-1.pdf
+Advances in Dependability Engineering of Complex Systems;Wojciech ZamojskiJacek MazurkiewiczJarosè‰‚aw SugierTomasz WalkowiakJanusz Kacprzyk;2002;978-3-319-59415-6.pdf
+Mathematical Analysis of Continuum Mechanics and Industrial Applications II;Dr. Patrick van MeursProf. Masato KimuraProf. Hirofumi Notsu;2005;978-981-10-6283-4.pdf
+Randomness and Hyper-randomness;Prof. Igor I. Gorban;2001;978-3-319-60780-1.pdf
+Cardiac Cell Culture Technologies;Prof. Zbigniew BrzozkaElzbieta Jastrzebska;2007;978-3-319-70685-6.pdf
+Cybernetics Approaches in Intelligent Systems;Radek SilhavyPetr SilhavyZdenka Prokopova;2003;978-3-319-67618-0.pdf
+Innovations in Biomedical Engineering;Prof. Marek GzikProf. Ewaryst TkaczProf. Zbigniew PaszendaProf. Ewa Piè‡‹tka;2002;978-3-319-70063-2.pdf
+Soft Computing for Sustainability Science;Carlos Cruz Corona;2002;978-3-319-62359-7.pdf
+Canonical Instabilities of Autonomous Vehicle Systems;Dr. Rodrick Wallace;2002;978-3-319-69935-6.pdf
+Design and Modeling of Mechanical Systemséˆ¥æ“¨II;Mohamed HaddarDr. Fakher ChaariAbdelmajid BenamaraMnaouar ChouchaneChafik KarraNizar Aifaoui;2009;978-3-319-66697-6.pdf
+Intelligent Transportation Systems;Prof. Dr. Syed Faraz HasanNazmul SiddiqueDr. Shyam Chakraborty;2000;978-3-319-64057-0.pdf
+Advances in Human Factors in Training, Education, and Learning Sciences;Terence Andre;2004;978-3-319-60018-5.pdf
+Sensors and Image Processing;Prof. Dr. Shabana UroojProf. Dr. Jitendra Virmani;2001;978-981-10-6614-6.pdf
+Cable-Driven Parallel Robots;ClèŒ…ment GosselinPhilippe CardouTobias BruckmannAndreas Pott;2007;978-3-319-61431-1.pdf
+Environmental Vibrations and Transportation Geodynamics;Xuecheng BianYunmin ChenXiaowei Ye;2001;978-981-10-4508-0.pdf
+Fuzzy Logic in Intelligent System Design;Prof. Dr. Patricia MelinProf. Dr. Oscar CastilloJanusz KacprzykMarek ReformatWilliam Melek;2008;978-3-319-67137-6.pdf
+Progress in Intelligent Computing Techniques: Theory, Practice, and Applications;Dr. Pankaj Kumar SaDr. Manmath Narayan SahooDr. M. MurugappanDr. Yulei WuDr. Banshidhar Majhi;2003;978-981-10-3376-6.pdf
+Topology Optimization Theory for Laminar Flow;Yongbo DengYihui WuZhenyu Liu;2009;978-981-10-4687-2.pdf
+Fuzzy Dual Numbers;Felix Mora-CaminoCarlos Alberto Nunes Cosenza;2009;978-3-319-65418-8.pdf
+Logic Synthesis for Finite State Machines Based on Linear Chains of States;Alexander BarkalovLarysa TitarenkoJacek Bieganowski;2007;978-3-319-59837-6.pdf
+Resource Management for Heterogeneous Wireless Networks;Dr. Amila Tharaperiya GamageDr. Xuemin (Sherman) Shen;2000;978-3-319-64268-0.pdf
+Emerging Ideas on Information Filtering and Retrieval;Prof. Dr. Cristian LaiProf. Dr. Alessandro GiulianiProf. Dr. Giovanni Semeraro;2002;978-3-319-68392-8.pdf
+Predictive Econometrics and Big Data;Vladik KreinovichSongsak SriboonchittaNopasit Chakpitak;2009;978-3-319-70942-0.pdf
+Processing Medical Thermal Images;Robert Koprowski;2001;978-3-319-61340-6.pdf
+An Introduction to Soil Mechanics;Prof. Dr. Arnold Verruijt;2003;978-3-319-61185-3.pdf
+Advances in Condition Monitoring of Machinery in Non-Stationary Operations;Anna TimofiejczukProf. Fakher ChaariProf. Radoslaw ZimrozProf. Walter BartelmusProf. Mohamed Haddar;2007;978-3-319-61927-9.pdf
+Advanced Logic Synthesis;AndrèŒ… Inè°©cio ReisRolf Drechsler;2003;978-3-319-67295-3.pdf
+Automotive Systems Engineering II;Prof. Dr. Hermann WinnerProf. Dr. Gçœ‰nther ProkopProf. Dr. Markus Maurer;2003;978-3-319-61607-0.pdf
+Mixing and Dispersion in Flows Dominated by Rotation and Buoyancy;Prof. Herman J.H. ClercxProf. GertJan F. Van Heijst;2002;978-3-319-66887-1.pdf
+Regularity and Stochasticity of Nonlinear Dynamical Systems;Dimitri VolchenkovXavier Leoncini;2009;978-3-319-58062-3.pdf
+Turbulence and Interactions;Prof. Michel O. DevilleDr. Vincent CouaillierDr. Jean-Luc EstivalezesDr. Vincent GleizeDr. Thié”šn Hié”špLé”šDr. Marc TerracolProf. Dr. StèŒ…phane Vincent;2000;978-3-319-60387-2.pdf
+Thermal Effects in Complex Machining Processes;Prof. Dr. D BiermannF Hollmann;2009;978-3-319-57120-1.pdf
+Industry Interactive Innovations in Science, Engineering and Technology;Dr. Swapan BhattacharyyaDr. Sabyasachi SenDr. Meghamala DuttaDr. Papun BiswasDr. Himadri Chattopadhyay;2007;978-981-10-3953-9.pdf
+Finite Element Concepts;Gautam Dasgupta;2001;978-1-4939-7423-8.pdf
+Communications, Signal Processing, and Systems;Qilian LiangJiasong MuDr. Wei WangBaoju Zhang;2006;978-981-10-3229-5.pdf
+Principles of River Hydraulics;Aronne Armanini;2003;978-3-319-68101-6.pdf
+AI Injected e-Learning;Dr. Matthew Montebello;2003;978-3-319-67928-0.pdf
+Materials Characterisation and Mechanism of Micro-Cutting in Ultra-Precision Diamond Turning;Sandy Suet ToHao WangWing Bing Lee;2002;978-3-662-54823-3.pdf
+Informatics in Control, Automation and Robotics;Prof. Kurosh MadaniDr. Dimitri PeaucelleProf. Dr. Oleg Gusikhin;2000;978-3-319-55011-4.pdf
+Proceedings of the 4th CongrçŒ«s International de GèŒ…otechnique - Ouvrages -Structures;Hoang-Hung Tran-NguyenProf. Henry WongFrederic RagueneauCuong Ha-Minh;2007;978-981-10-6713-6.pdf
+Innovation for Engineers;Dr. Mehran Mehregany;2005;978-3-319-66529-0.pdf
+Memristor Technology: Synthesis and Modeling for Sensing and Security Applications;Heba AbunahlaBaker Mohammad;2006;978-3-319-65699-1.pdf
+Information and Communication Technology for Sustainable Development;Dr. Durgesh Kumar MishraDr. Malaya Kumar NayakAmit Joshi;2008;978-981-10-3932-4.pdf
+Challenges in Mechanics of Time Dependent Materials, Volume 2;Alex ArzoumanidisMeredith SilbersteinProf. Alireza Amirkhizi;2004;978-3-319-63393-0.pdf
+Proceedings of the International Conference of Mechatronics and Cyber-MixMechatronics - 2017;Dr. Gheorghe I. Gheorghe;2006;978-3-319-63091-5.pdf
+Mobile Big Data;Georgios SkourletopoulosGeorge MastorakisDr. Constandinos X. MavromoustakisCiprian DobreEvangelos Pallis;2002;978-3-319-67925-9.pdf
+Submodular Rate Region Models for Multicast Communication in Wireless Networks;Dr. Maximilian Riemensberger;2009;978-3-319-65232-0.pdf
+Theory of Elastic Oscillations;Prof. Dr. Vladimir Fridman;2008;978-981-10-4786-2.pdf
+Computer Systems;Ata Elahi;2008;978-3-319-66775-1.pdf
+Aesthetics: Quantification and Deconstruction;Dr. Sushil Chandra;2002;978-981-10-6235-3.pdf
+Nanoelectronic Materials and Devices;Prof. Christophe LabbèŒ…Prof. Dr. Subhananda ChakrabartiDr. Gargi RainaDr. B. Bindu;2004;978-981-10-7191-1.pdf
+The Theory of Info-Statics: Conceptual Foundations of Information and Knowledge;Kofi K. Dompere;2009;978-3-319-61639-1.pdf
+The Mechanics of Jointed Structures;Matthew R.W. Brake;2003;978-3-319-56818-8.pdf
+Cancellous Bone;Prof. Dr. Ardiyansyah SyahromMohd Al-Fatihhi bin Mohd Szali JanuddiDr. Muhamad Noor HarunProf. Dr. Andreas è„°chsner;2005;978-981-10-5472-3.pdf
+International Conference on Information Technology and Communication Systems;Gherabi NoreddineJanusz Kacprzyk;2001;978-3-319-64719-7.pdf
+The Ageing of Materials and Structures;Prof. Dr. Klaas van BreugelProf. Dessi KolevaProf. Dr. Ton Beek;2005;978-3-319-70194-3.pdf
+Cloud-Based Cyber-Physical Systems in Manufacturing;Prof. Lihui WangDr. Xi Vincent Wang;2006;978-3-319-67693-7.pdf
+Biologically Rationalized Computing Techniques For Image Processing Applications;Jude HemanthProf. Dr. Valentina Emilia Balas;2000;978-3-319-61316-1.pdf
+An Economic Analysis on Automated Construction Safety;Rita Yi Man Li;2002;978-981-10-5771-7.pdf
+A Survey on Coordinated Power Management in Multi-Tenant Data Centers;Dr. Thant Zin OoDr. Nguyen H. TranDr. Shaolei RenChoong Seon Hong;2007;978-3-319-66062-2.pdf
+Advances in The Human Side of Service Engineering;Louis E. FreundWojciech Cellary;2009;978-3-319-60486-2.pdf
+International Conference on Applications and Techniques in Cyber Security and Intelligence;Prof. Jemal AbawajyKim-Kwang Raymond ChooDr. Rafiqul Islam;2008;978-3-319-67071-3.pdf
+Designing Better Services;Dr. Francesca FoglieniDr. Beatrice VillariProf. Stefano Maffei;2008;978-3-319-63179-0.pdf
+Smart Sensors at the IoT Frontier;Hiroto YasuuraChong-Min KyungYongpan LiuYoun-Long Lin;2001;978-3-319-55345-0.pdf
+Kinesthetic Perception;Prof. Subhasis ChaudhuriAmit Bhardwaj;2006;978-981-10-6692-4.pdf
+Topic Detection and Classification in Social Networks;Dr. Dimitrios Milioris;2008;978-3-319-66414-9.pdf
+Emerging Research in Computing, Information, Communication and Applications;Prof. Dr. N. R. ShettyProf. Dr. L. M. PatnaikDr. N. H. PrasadN. Nalini;2003;978-981-10-4741-1.pdf
+Smart Cities;Stan McClellanJesus A. JimenezGeorge Koutitas;2009;978-3-319-59381-4.pdf
+Multi-Disciplinary Digital Signal Processing;Dr. E. S. Gopi;2005;978-3-319-57430-1.pdf
+Micro and Precision Manufacturing;Dr. Kapil Gupta;2005;978-3-319-68801-5.pdf
+Computational Ship Design;Prof. Myung-Il RohProf. Kyu-Yeul Lee;2007;978-981-10-4885-2.pdf
+Linear and Non-linear Mechanical Behavior of Solid Materials;Christian Lexcellent;2000;978-3-319-55609-3.pdf
+Proceedings of 2017 Chinese Intelligent Systems Conference;Prof. Dr. Yingmin JiaProf. Dr. Junping DuWeicun Zhang;2005;978-981-10-6499-9.pdf
+New Results in Numerical and Experimental Fluid Mechanics XI;Prof. Dr. Dr. Andreas DillmannDr. Gerd HellerProf. Dr. Ewald Krç›²merProf. Dr. Claus WagnerDr. Stephan BansmerProf. Dr. Rolf RadespielDr. Richard Semaan;2004;978-3-319-64519-3.pdf
+Navigation and Guidance of Orbital Transfer Vehicle;Prof. Xuefeng LiChaobing Li;2001;978-981-10-6334-3.pdf
+Advances in Gain-Scheduling and Fault Tolerant Control Techniques;Damiano Rotondo;2001;978-3-319-62902-5.pdf
+Advances in Internal Combustion Engine Research;Prof. Dr. Dhananjay Kumar SrivastavaProf. Dr. Avinash Kumar AgarwalProf. Dr. Amitava DattaProf. Dr. Rakesh Kumar Maurya;2001;978-981-10-7575-9.pdf
+Propagation and Extinction Studies of Laminar Lean Premixed Syngas/Air Flames;Dr. Yang Zhang;2002;978-981-10-4615-5.pdf
+Adaptive Interference Mitigation in GNSS;Renbiao WuWenyi WangDan LuLu WangQiongqiong Jia;2000;978-981-10-5571-3.pdf
+Advances in Human Aspects of Transportation;Prof. Dr. Dr. Neville A Stanton;2009;978-3-319-60441-1.pdf
+Modeling Transport Phenomena in Porous Media with Applications;Prof. Malay K. DasProf. Partha P. MukherjeeProf. K. Muralidhar;2007;978-3-319-69866-3.pdf
+Advances in Neural Computation, Machine Learning, and Cognitive Research;Boris KryzhanovskyWitali Dunin-BarkowskiVladimir Redko;2008;978-3-319-66604-4.pdf
+Man-Machine Interactions 5;Aleksandra GrucaTadeusz Czachè´¸rskiKatarzyna HarezlakStanisè‰‚aw KozielskiAgnieszka Piotrowska;2001;978-3-319-67792-7.pdf
+Advances in Human Factors in Cybersecurity;Denise Nicholson;2003;978-3-319-60585-2.pdf
+2nd International Conference for Innovation in Biomedical Engineering and Life Sciences;Prof. Fatimah IbrahimDr. Juliana UsmanDr. Mohd Yazed AhmadDr. Norhamizan HamzahDr. Swe Jyan Teh;2004;978-981-10-7554-4.pdf
+Information Systems Architecture and Technology: Proceedings of 38th International Conference on Information Systems Architecture and Technology éˆ¥?ISAT 2017;Zofia WilimowskaLeszek BorzemskiJerzy è‰¢wiè†®tek;2000;978-3-319-67223-6.pdf
+Proceedings of International Conference on Cognition and Recognition;Prof. Dr. D. S. GuruDr. T. VasudevDr. H.K. ChethanDr. Y.H. Sharath Kumar;2000;978-981-10-5146-3.pdf
+Heat Pumps;Prof. Walter Grassi;2007;978-3-319-62199-9.pdf
+Antenna Fundamentals for Legacy Mobile Applications and Beyond;Dr. Issa ElferganiDr. Abubakar Sadiq HussainiDr. Jonathan RodriguezProf. Raed Abd-Alhameed;2006;978-3-319-63967-3.pdf
+Advanced Technologies in Practical Applications for National Security;Aleksander NawratDamian BereskaKarol Jè‡‹drasiak;2003;978-3-319-64674-9.pdf
+Bio-Inspired Collaborative Intelligent Control and Optimization;Yongsheng DingLei ChenKuangrong Hao;2006;978-981-10-6689-4.pdf
