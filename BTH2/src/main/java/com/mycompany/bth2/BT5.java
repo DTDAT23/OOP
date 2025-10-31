@@ -12,46 +12,47 @@ import java.util.ArrayList;
  * @author tiend
  */
 public class BT5 {
-    public class DSPhanSo{
+
+    public class DSPhanSo {
+
         private ArrayList<PhanSo> dsPhanSo;
-        
-        DSPhanSo(){
+
+        DSPhanSo() {
             this.dsPhanSo = new ArrayList<>();
         }
-        
-        public void addPhanSo(PhanSo a){
+
+        public void addPhanSo(PhanSo a) {
             this.dsPhanSo.add(a);
         }
-        
-        public void removePhanSO(PhanSo b){
+
+        public void removePhanSO(PhanSo b) {
             this.dsPhanSo.remove(b);
         }
-        
-        public PhanSo tinhTongPS(){
+
+        public PhanSo tinhTongPS() {
             PhanSo p = new PhanSo();
-            for(PhanSo a: dsPhanSo){
+            for (PhanSo a : dsPhanSo) {
                 p.congPS(a);
             }
             return p.rutgon();
         }
-        
-        public void sortDSPS(){
-            dsPhanSo.sort((a,b)->a.soSanhPS(b));
+
+        public void sortDSPS() {
+            dsPhanSo.sort((a, b) -> a.soSanhPS(b));
         }
 
         public void hienThi() {
-        if (dsPhanSo.isEmpty()) {
-            System.out.println("Danh sách rỗng!");
-            return;
+            if (dsPhanSo.isEmpty()) {
+                System.out.println("Danh sách rỗng!");
+                return;
+            }
+
+            System.out.println("Danh sách phân số:");
+            for (PhanSo p : dsPhanSo) {
+                System.out.print(p + "  ");
+            }
+            System.out.println();
         }
 
-        System.out.println("Danh sách phân số:");
-        for (PhanSo p : dsPhanSo) {
-            System.out.print(p + "  ");
-        }
-        System.out.println();
-    }
-        
-        
     }
 }
