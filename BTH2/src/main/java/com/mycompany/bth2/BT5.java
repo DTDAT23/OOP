@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class BT5 {
 
-    public class DSPhanSo {
+    public static class DSPhanSo {
 
         private ArrayList<PhanSo> dsPhanSo;
 
