@@ -7,6 +7,7 @@ import com.mycompany.bth2.BT2.Diem;
 import com.mycompany.bth2.BT3.DoanThang;
 import com.mycompany.bth2.BT4.PhanSo;
 import com.mycompany.bth2.BT5.DSPhanSo;
+import com.mycompany.bth2.BT6.HocSinh;
 
 /**
  *
@@ -41,8 +42,8 @@ public class BTH2 {
 //            else System.out.println("Khong song song");
 
 //            //Bai 4
-            PhanSo ps1 = new PhanSo(12,18);
-            PhanSo ps2 = new PhanSo(1,7);
+//            PhanSo ps1 = new PhanSo(12,18);
+//            PhanSo ps2 = new PhanSo(1,7);
 //            System.out.println(ps1.rutgon());
 //            System.out.println(ps2);
 //            
@@ -50,18 +51,22 @@ public class BTH2 {
 //            System.out.println(psc);
 //            System.out.println(ps1.rutgon().soSanhPS(ps2));
 
-        //Bai 5
-        DSPhanSo ds = new DSPhanSo();
-        ds.addPhanSo(new PhanSo(2, 3));
-        ds.addPhanSo(new PhanSo(5, 9));
-        ds.addPhanSo(new PhanSo(1, 2));
+//        //Bai 5
+//        DSPhanSo ds = new DSPhanSo();
+//        ds.addPhanSo(new PhanSo(2, 3));
+//        ds.addPhanSo(new PhanSo(5, 9));
+//        ds.addPhanSo(new PhanSo(1, 2));
+//
+//        ds.hienThi();
+//
+//        System.out.println("Tổng các phân số = " + ds.tinhTongPS());
+//
+//        ds.sortDSPS();
+//        System.out.println("Sau khi sắp xếp tăng dần:");
+//        ds.hienThi();
 
-        ds.hienThi();
-
-        System.out.println("Tổng các phân số = " + ds.tinhTongPS());
-
-        ds.sortDSPS();
-        System.out.println("Sau khi sắp xếp tăng dần:");
-        ds.hienThi();
+            //Bai 6
+            HocSinh hs1 = new HocSinh("Nguyen Van A", "01/01/2007", "Vung Tau", 8.5, 7.5, 9.0);
+            System.out.println(hs1);
     }
 }
