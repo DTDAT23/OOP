@@ -49,6 +49,7 @@ public class BTH2 {
 //            System.out.println(psc);
 //            System.out.println(ps1.rutgon().soSanhPS(ps2));
 
-             //
+             //Bai 5
+             
     }
 }
