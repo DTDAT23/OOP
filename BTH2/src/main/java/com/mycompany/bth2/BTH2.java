@@ -9,6 +9,7 @@ import com.mycompany.bth2.BT4.PhanSo;
 import com.mycompany.bth2.BT5.DSPhanSo;
 import com.mycompany.bth2.BT6.HocSinh;
 import com.mycompany.bth2.BT6.HocSinh.QLHS;
+import com.mycompany.bth2.BT7.QuocGia;
 
 /**
  *
@@ -67,7 +68,7 @@ public class BTH2 {
 //        ds.hienThi();
 
             //Bai 6
-            HocSinh hs4 = new HocSinh("Nguyen Van d", "01/01/2007", "Vung Tau", 3.5, 2.5, 6.0);
+//            HocSinh hs4 = new HocSinh("Nguyen Van d", "01/01/2007", "Vung Tau", 3.5, 2.5, 6.0);
 //            System.out.println(hs1);
 //            System.out.printf("Tuoi hien tai la: %d\n", hs1.getTuoi());
 //            System.out.printf("Diem trung binh la: %.2f\n", hs1.tinhDTB());
@@ -85,5 +86,10 @@ public class BTH2 {
 //        System.out.println("\n========DS sau khi sort======\n");
 //        ds.sortDS();
 //        ds.showDS();
+
+            //Bai7
+            QuocGia qg = new QuocGia("VietNam","HaNoi",68,1902879);
+            System.out.println(qg);
+            
     }
 }
