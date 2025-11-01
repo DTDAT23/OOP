@@ -8,6 +8,7 @@ import com.mycompany.bth2.BT3.DoanThang;
 import com.mycompany.bth2.BT4.PhanSo;
 import com.mycompany.bth2.BT5.DSPhanSo;
 import com.mycompany.bth2.BT6.HocSinh;
+import com.mycompany.bth2.BT6.HocSinh.QLHS;
 
 /**
  *
@@ -66,8 +67,23 @@ public class BTH2 {
 //        ds.hienThi();
 
             //Bai 6
-            HocSinh hs1 = new HocSinh("Nguyen Van A", "01/01/2007", "Vung Tau", 8.5, 7.5, 9.0);
-            System.out.println(hs1);
-            System.out.printf("Tuoi hien tai la: %d\n", hs1.getTuoi());
+            HocSinh hs4 = new HocSinh("Nguyen Van d", "01/01/2007", "Vung Tau", 3.5, 2.5, 6.0);
+//            System.out.println(hs1);
+//            System.out.printf("Tuoi hien tai la: %d\n", hs1.getTuoi());
+//            System.out.printf("Diem trung binh la: %.2f\n", hs1.tinhDTB());
+//            System.out.printf("Ket qua hoc luc la: %s\n", hs1.kqHocLuc());
+
+//        QLHS ds = new QLHS();
+//        ds.showDS();
+//        ds.themHS(hs4);
+//        System.out.println("\n========DS sau khi them======\n");
+//        ds.showDS();
+//        String mshs = "HS-0021";
+//        ds.xoaHS(mshs);
+//        System.out.println("\n========DS sau khi xoa======\n");
+//        ds.showDS();
+//        System.out.println("\n========DS sau khi sort======\n");
+//        ds.sortDS();
+//        ds.showDS();
     }
 }
