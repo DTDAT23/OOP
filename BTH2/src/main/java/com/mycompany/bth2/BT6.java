@@ -4,6 +4,9 @@
  */
 package com.mycompany.bth2;
 
+import java.time.LocalDate;
+import java.time.Year;
+
 /**
  *
  * @author tiend
@@ -90,6 +93,10 @@ public class BT6 {
             return this.mssv + ", "+this.hoten+", "+this.ngaySinh+", "+this.quequan+", "+this.diemT+", "+this.diemV+", "+this.diemA+"\n";
         }
         
-        
+        public int getTuoi(){
+            LocalDate today = LocalDate.now();
+            String[] ngaysinh = this.ngaySinh.split("/");
+            return today.getYear() - Integer.parseInt(ngaysinh[2]);
+        }
     }
 }

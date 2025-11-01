@@ -68,5 +68,6 @@ public class BTH2 {
             //Bai 6
             HocSinh hs1 = new HocSinh("Nguyen Van A", "01/01/2007", "Vung Tau", 8.5, 7.5, 9.0);
             System.out.println(hs1);
+            System.out.printf("Tuoi hien tai la: %d\n", hs1.getTuoi());
     }
 }
