@@ -1,0 +1,6 @@
+Anh, London, 55(trieu nguoi), 130.0(ngan km2)
+HC vang: 22, HC bac: 21, HC dong: 22
+
+My, Washington D.C., 331(trieu nguoi), 9629.0(ngan km2)
+HC vang: 39, HC bac: 41, HC dong: 33
+
