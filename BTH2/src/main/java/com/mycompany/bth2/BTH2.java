@@ -9,6 +9,7 @@ import com.mycompany.bth2.BT4.PhanSo;
 import com.mycompany.bth2.BT5.DSPhanSo;
 import com.mycompany.bth2.BT6.HocSinh;
 import com.mycompany.bth2.BT6.HocSinh.QLHS;
+import com.mycompany.bth2.BT7.OlympicTokyo;
 import com.mycompany.bth2.BT7.QuocGia;
 
 /**
@@ -87,9 +88,13 @@ public class BTH2 {
 //        ds.sortDS();
 //        ds.showDS();
 
-            //Bai7
-            QuocGia qg = new QuocGia("VietNam","HaNoi",68,1902879);
-            System.out.println(qg);
-            
+//            //Bai7
+//            OlympicTokyo ds = new OlympicTokyo();
+//            ds.showDS(10);
+//            //Tim kiem quoc gia
+//            System.out.println("\nTim kim quoc gia:");
+//            ds.timKiem("Trung Quoc");
+//            //In vao tap tin
+//            ds.inTapTin("My","D:\\OOP\\datalab\\ThongTinQG.txt");
     }
 }

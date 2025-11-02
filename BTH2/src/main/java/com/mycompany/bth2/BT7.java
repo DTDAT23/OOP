@@ -6,6 +6,9 @@ package com.mycompany.bth2;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -111,6 +114,7 @@ public class BT7 {
     }
     
     public static class OlympicTokyo{
+        private static int slqg;
         private ArrayList<QuocGia> dsqg;
         private ArrayList<ThanhTich> dstt;
         
@@ -124,17 +128,81 @@ public class BT7 {
                 
                 Scanner sqg = new Scanner(fqg);
                 Scanner stt = new Scanner(ftt);
-                
+                //Doc file QG
                 sqg.nextLine();
+                stt.nextLine();
+                slqg = Integer.parseInt(stt.nextLine().trim());
+                String[] dsQG=stt.nextLine().trim().split(",");
+                ArrayList<String> thanhtich = new ArrayList<>();
+                
+                //doc file thanh tich
+                for (int i = 0; i < slqg; i++) {
+                    thanhtich.add(stt.nextLine().trim());
+                }
+                
                 while(sqg.hasNextLine()){
                     String line = sqg.nextLine().trim();
                     String[] parks = line.split(",");
                     
                     dsqg.add(new QuocGia(parks[0],parks[1],Long.parseLong(parks[2]),Double.parseDouble(parks[3])));
+                    for(int i = 0;i< slqg;i++){
+                        if(parks[0].equalsIgnoreCase(dsQG[i])){
+                            String lines = thanhtich.get(i);
+                            String[] tt = lines.split(",");
+                            dstt.add(new ThanhTich(Integer.parseInt(tt[0]),Integer.parseInt(tt[1]),Integer.parseInt(tt[2])));
+                        }
+                    }
                 }
+                
+                sqg.close();
+                stt.close();
             }
             catch(FileNotFoundException e){
                 System.out.println("Khong doc file duoc");
+            }
+        }
+        
+        public void showDS(){
+            for (int i = 0; i < slqg; i++) {
+                System.out.println(dsqg.get(i)+""+dstt.get(i));
+            }
+        }
+        
+        public void timKiem(String tenQG){
+            for (int i = 0; i < slqg; i++) {
+                if(dsqg.get(i).getTennuoc().equalsIgnoreCase(tenQG)){
+                    System.out.println(dsqg.get(i)+""+dstt.get(i));
+                    return;
+                }
+            }
+            System.out.printf("\nKhong tim thay %s", tenQG);
+        }
+        
+        public void showDS(int V){
+            boolean isLon = false;
+            for (int i = 0; i < slqg; i++) {
+                if(dstt.get(i).getHcvang()>=V){
+                    System.out.println(dsqg.get(i)+""+dstt.get(i));
+                    isLon = true;
+                }
+            }
+            if(!isLon) System.out.printf("Khong co quoc gia nao co so hc vang lon hon %d", V);
+        }
+        
+        public void inTapTin(String tenQG, String tenTapTin){
+            try{
+                FileWriter fo = new FileWriter(tenTapTin,true);
+                PrintWriter si = new PrintWriter(fo);
+                
+                for (int i = 0; i < slqg; i++) {
+                    if(dsqg.get(i).getTennuoc().equalsIgnoreCase(tenQG)){
+                        si.println(dsqg.get(i)+""+dstt.get(i));
+                    }
+                }
+                si.close(); 
+            }
+            catch(IOException ex){
+                System.out.println("khong the ghi file");
             }
         }
     }
