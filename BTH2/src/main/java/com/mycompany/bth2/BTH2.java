@@ -12,6 +12,9 @@ import com.mycompany.bth2.BT6.HocSinh.QLHS;
 import com.mycompany.bth2.BT7.OlympicTokyo;
 import com.mycompany.bth2.BT7.QuocGia;
 import com.mycompany.bth2.BT8.DoiTuyenQuocGia;
+import com.mycompany.bth2.BT9.BoCauHoi;
+import com.mycompany.bth2.BT9.CauHoi;
+import java.util.Scanner;
 
 /**
  *
@@ -98,12 +101,58 @@ public class BTH2 {
 //            //In vao tap tin
 //            ds.inTapTin("My","D:\\OOP\\datalab\\ThongTinQG.txt");
 
-            //Bai 8
-            DoiTuyenQuocGia dsct = new DoiTuyenQuocGia("D:\\OOP\\datalab\\DoiTuyenQuocGiaVN.txt");
-            
+//            //Bai 8
+//           DoiTuyenQuocGia dsct = new DoiTuyenQuocGia("D:\\OOP\\datalab\\DoiTuyenQuocGiaVN.txt");
+//            
 //            dsct.getCTCLB("clb ha noi");
 //            
 //            dsct.getCTVTri("tien ve");
-            dsct.getDoiHinhThiDau(1, 3, 5, 2);
+//            dsct.getDoiHinhThiDau(1, 3, 5, 2);
+
+            //Bai 9
+            BoCauHoi dsqs = new BoCauHoi();
+            Scanner sc = new Scanner(System.in);
+            int luaChon = 0;
+            String n;
+            
+            for (int i = 0; i < 7; i++) {
+                dsqs.docBoCauHoi(i+1);
+            }
+            
+            do {
+                System.out.println("1. Them cau hoi vao bo cau hoi.");
+                System.out.println("2. Bat dau luyen.");
+                System.out.println("0. Thoat.");
+                System.out.print("Nhap lua chon: ");
+                luaChon = sc.nextInt();
+                sc.nextLine();
+
+                switch(luaChon){
+                    case 1:
+                            do{
+                                System.out.print("Nhap cau hoi: ");
+                                String cauhoi = sc.nextLine();
+                                String luachon[] = new String[4];
+                                for (int i = 0; i < 4; i++) {
+                                    System.out.printf("Nhap lua chon %d:", i);
+                                    luachon[i] = sc.nextLine();
+                                }
+                                System.out.print("Nhap dap an: ");
+                                String da = sc.nextLine();
+                                CauHoi ch = new CauHoi(cauhoi, luachon, da);
+                                dsqs.setCauHoi(ch);
+
+                                System.out.println("Ban co muon tiep tuc nhap cau hoi khong: (Y/N)");
+                                n = sc.nextLine();
+                            }while(n.equalsIgnoreCase("y"));
+                        break;
+                    case 2:
+                            dsqs.LuyenThi();
+                        break;
+                    case 0:
+                        System.out.println("Tam biet!");
+                        break;
+                }
+            } while (luaChon!=0);
     }
 }
