@@ -11,6 +11,7 @@ import com.mycompany.bth2.BT6.HocSinh;
 import com.mycompany.bth2.BT6.HocSinh.QLHS;
 import com.mycompany.bth2.BT7.OlympicTokyo;
 import com.mycompany.bth2.BT7.QuocGia;
+import com.mycompany.bth2.BT8.DoiTuyenQuocGia;
 
 /**
  *
@@ -96,5 +97,13 @@ public class BTH2 {
 //            ds.timKiem("Trung Quoc");
 //            //In vao tap tin
 //            ds.inTapTin("My","D:\\OOP\\datalab\\ThongTinQG.txt");
+
+            //Bai 8
+            DoiTuyenQuocGia dsct = new DoiTuyenQuocGia("D:\\OOP\\datalab\\DoiTuyenQuocGiaVN.txt");
+            
+//            dsct.getCTCLB("clb ha noi");
+//            
+//            dsct.getCTVTri("tien ve");
+            dsct.getDoiHinhThiDau(1, 3, 5, 2);
     }
 }
