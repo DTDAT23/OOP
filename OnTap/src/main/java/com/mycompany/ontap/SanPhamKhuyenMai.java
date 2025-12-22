@@ -10,20 +10,25 @@ import java.util.Date;
  *
  * @author tiend
  */
-public class SanPhamKhuyenMai extends SanPham{
-    private double giaGiam;
-    public SanPhamKhuyenMai(String tenSP, Date ngayNhapKho, double donGia, int soLuongTonKho, double giaGiam){
-        super(tenSP,ngayNhapKho,donGia,soLuongTonKho);
+public class SanPhamKhuyenMai extends SanPham {
+    private int giaGiam;
+
+    public SanPhamKhuyenMai(String tenSP, Date ngayNhapKho, int donGia, int soLuongTonKho, int giaGiam) {
+        super(tenSP, ngayNhapKho, donGia, soLuongTonKho);
         this.giaGiam = giaGiam;
     }
 
     @Override
-    public double giaTriTonKho() {
-        return super.giaTriTonKho()*(1-(this.giaGiam/100)); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
+    public int giaTriTK() {
+        return super.giaTriTK()*(1-this.giaGiam/100); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
     }
 
     @Override
     public String toString() {
-        return super.toString()+String.format(", %.0f", this.giaGiam); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
+        return super.toString()+String.format("\nGia giam: %d", this.giaGiam); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/OverriddenMethodBody
+    }
+
+    public int getGiaGiam() {
+        return giaGiam;
     }
 }
